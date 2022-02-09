@@ -1,0 +1,26 @@
+@charset "UTF-8"
+
+* { /* configurações globais das CSS */
+    height: 100%;
+}
+body{ 
+    background-color: rgb(105, 105, 173);
+    color:white; 
+    font: normal 20pt Arial;
+
+}
+h1{
+    color:rgb(255, 212, 22);
+}
+var{
+    font-size: 20px;
+    color: blue;
+    border-radius: 5px;
+    background: crimson;
+}
+script{
+    font-size: 20px;
+    color: blue;
+    border-radius: 5px;
+    background: crimson;
+}
