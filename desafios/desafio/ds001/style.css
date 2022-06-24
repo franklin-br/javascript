@@ -1,6 +1,10 @@
 body {
-    background: rgb(17, 187, 241);
+    background: black;
+    background: black url(imagens/illustration.svg) center center no-repeat fixed;
     font: normal 15pt Arial;
+    background-size: cover;
+
+
 }
 
 header {
